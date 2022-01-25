@@ -1,0 +1,47 @@
+body{
+  background-color: #fff5b7;
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  border-spacing: 10px;
+  width: 5%;
+}
+
+img{
+  height: 200px;
+}
+
+
+.h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+
+h1:hover{
+  color: Red;
+}
+
+.h3{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3:hover{
+  color: Red;
+}
+
+.skills:hover{
+  color: red;
+}
+
+.profiles:hover{
+  color: red;
+}
+
+.contact:hover{
+  color: red;
+}
